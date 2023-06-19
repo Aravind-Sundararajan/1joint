@@ -85,7 +85,7 @@
 				</Body>
 				<Body name="link1">
 					<mass>0.1</mass>
-					<mass_center> 0 -0.05 0</mass_center>
+					<mass_center> 0 -0.1 0</mass_center>
 					<inertia_xx>2.5e-006</inertia_xx>
 					<inertia_yy>5e-006</inertia_yy>
 					<inertia_zz>2.5e-006</inertia_zz>
